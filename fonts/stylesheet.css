@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "glyphicons halflings regular";
+    src: url('../../../../webfonts/glyphicons_halflings_regular/glyphicons-halflings-regular.eot');
+    src: url('../../../../webfonts/glyphicons_halflings_regular/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../../../../webfonts/glyphicons_halflings_regular/glyphicons-halflings-regular.woff') format('woff'), url('../../../../webfonts/glyphicons_halflings_regular/glyphicons-halflings-regular.ttf') format('truetype'), url('../../../../webfonts/glyphicons_halflings_regular/glyphicons-halflings-regular.svg') format('svg');
+}
